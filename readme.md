@@ -23,6 +23,10 @@ npm install has-fetch
 
 ```js
 const hasFetch = require('has-fetch');
+
+hasFetch();
+// Output: true or false
+
 ```
 
 <br>
