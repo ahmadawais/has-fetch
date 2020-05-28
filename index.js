@@ -1,0 +1,4 @@
+/**
+ * Has Fetch.
+ */
+module.exports = () => {};
